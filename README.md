@@ -1,2 +1,2 @@
-# QuantumultX
-QuantumultX远程配置文件
+# 远程脚本
+远程脚本配置
